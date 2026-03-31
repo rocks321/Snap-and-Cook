@@ -122,3 +122,4 @@ No local MongoDB? Use the free cloud option:
 
 ## 📝 License
 MIT
+![Screenshot 2026-03-31 130011](https://github.com/user-attachments/assets/52f2f6f1-cd04-4c2b-8cfc-08e366439787)
